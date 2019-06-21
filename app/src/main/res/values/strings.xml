@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">caunoibathu</string>
+    <string name="khoangcach">20dp</string>
+    <string name="app_text_size">20dp</string>
+    <string name="app_text_size1">10dp</string>
+    <string name="showtu">Câu nói bất hủ Voz</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_quotations">Show Quotations</string>
+
 </resources>
